@@ -4,7 +4,7 @@
 # Inara Almeida
 👑Mulheres no topo | 🏳️‍🌈 Diversidade
 
-<br/>1.**Empatia**
+1.**Empatia**
 <br/>2.**Respeito**
 <br/>3.**Comprometimento**
 <br/>4.**Excelência**
