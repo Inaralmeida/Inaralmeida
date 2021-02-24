@@ -1,7 +1,7 @@
 
-<img width="auto" src="https://github.com/tgmarinho/tgmarinho/blob/master/banner.png">
+<img src="https://www.impacta.com.br/blog/wp-content/uploads/2019/04/shutterstock_280517897.jpg">
 
-# Inara alemida
+# Inara Almeida
 👑Mulheres no topo | 🏳️‍🌈 Diversidade
 
 <br/>1.**Empatia**
