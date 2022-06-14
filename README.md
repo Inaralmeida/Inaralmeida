@@ -17,6 +17,6 @@ Sou uma desenvolvedora front-end junior :computer:
  <br/> :blush: &nbsp; Posso te ajudar com CSS Grid Layout, Flexbox e node.
  <br/> :computer: &nbsp; Minha stack: ReactJS, Node.js, Jasvascript, Bootstrap
  <br/> 💬  &nbsp; Sobre mim: apaixonada por minha familia, a louca dos post-its, estudar hoje, estudar amanhã, estudar sempre.
- <br/> :email: &nbsp; Entre em contato comigo: [![Linkedin Badge](https://img.shields.io/badge/-ThiagoMarinho-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tgmarinho/)](https://www.linkedin.com/in/inaralmeida/) 
+ <br/> :email: &nbsp; Entre em contato comigo: [![Linkedin Badge](https://img.shields.io/badge/-ThiagoMarinho-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/inaralmeida/)](https://www.linkedin.com/in/inaralmeida/) 
 | 
-[![Gmail Badge](https://img.shields.io/badge/-tgmarinho@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:tgmarinho@gmail.com)](mailto:inara.ralmeida@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/-tgmarinho@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:inara.ralmeida@gmail.com)](mailto:inara.ralmeida@gmail.com)
