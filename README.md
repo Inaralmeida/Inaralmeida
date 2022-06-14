@@ -1,4 +1,4 @@
-<h1 align="left">👋 Olá, eu sou Inara  🏳️‍🌈</h1>
+<h1 align="left">👋 Olá, eu sou Inara</h1>
 
 
 <p align="left">Desenvolvedora full-stack de São Paulo, Brasil</p>
