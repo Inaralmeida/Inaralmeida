@@ -30,12 +30,17 @@
 
 <img align="left" height="175" src="https://campuscode-site.s3-sa-east-1.amazonaws.com/newsletter/coding_pixels.gif"  />
 <br/>
-<div align="right">
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=flat" height="30" alt="linkedin logo" (https://www.linkedin.com/in/inaralmeida/)  />
-  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=flat" height="30" alt="discord logo"  />
+  <div align="right">
+<link href='https://www.linkedin.com/in/inaralmeida/' target="_blank">
+  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=flat" height="30" alt="linkedin logo"  />
+</link>
+<link href='https://www.instagram.com/ir_almds/' target="_blank">
+  
   <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=flat" height="30" alt="instagram logo"  />
+</link>
+<link href='https://github.com/Inaralmeida' target="_blank">
   <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=flat" height="30" alt="gmail logo"  />
-</div>
+</link>
 <br/><br/>
 
 <div align="right">
