@@ -24,6 +24,7 @@
 
 <br/>
 <br/>
+
 ###
 
 <img align="left" height="175" src="https://campuscode-site.s3-sa-east-1.amazonaws.com/newsletter/coding_pixels.gif"  />
