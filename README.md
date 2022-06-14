@@ -4,6 +4,7 @@
 <p align="left">Desenvolvedora full-stack de São Paulo, Brasil</p>
 
 <br>
+
 ###
 <h2 align="left">🏳️‍🌈 Sobre mim</h2>
 <li>Apaixonada por tecnologia e educação. 💙</li>
