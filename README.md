@@ -15,7 +15,6 @@
 
 
 ###
-<h2 align="center">Você é o protagonista da sua jornada, se der certo o mérito é seu, se der errado a culpa é sua</h2>
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=github_dark&locale=pt-br&hide_border=false&username=Inaralmeida" height="150" alt="stats graph"  />
