@@ -27,18 +27,7 @@
 ###
 
 <img align="left" height="175" src="https://campuscode-site.s3-sa-east-1.amazonaws.com/newsletter/coding_pixels.gif"  />
-<br/>
-  <div align="right">
-<a href='https://www.linkedin.com/in/inaralmeida/' target="_blank">
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=flat" height="30" alt="linkedin logo"  />
-</a>
-<a href='https://www.instagram.com/ir_almds/' target="_blank">
-  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=flat" height="30" alt="instagram logo"  />
-</a>
-<a href='https://github.com/Inaralmeida' target="_blank">
-  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=flat" height="30" alt="gmail logo"  />
-</a>
-<br/><br/>
+
 
 
 
