@@ -16,17 +16,11 @@
 
 ###
 
-<div align="center">
+<div align="left">
 
   <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=4&theme=github_dark&hide_border=false&username=Inaralmeida" height="150" alt="languages graph"  />
 </div>
 
-<br/>
-<br/>
-
-###
-
-<img align="left" height="175" src="https://campuscode-site.s3-sa-east-1.amazonaws.com/newsletter/coding_pixels.gif"  />
 
 
 
